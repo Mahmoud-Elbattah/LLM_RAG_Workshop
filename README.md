@@ -1,2 +1,2 @@
 # LLM_RAG_Workshop
-A 5-session hands-on workshop delivered at UWE Bristol in Spring 2025. Students built RAG-powered AI assistants using LLMs, vector-based document retrieval, grounded generation, and simple personalisation across themes including Health, Science, Sustainability, and Literature.
+A 5-session hands-on workshop delivered at UWE Bristol in Spring 2025, where students built personalised RAG-powered AI assistants around themes such as Health, Science, Sustainability, and Literature. The workshop covered LLM basics, vector-based document retrieval, grounded generation, RAG pipeline integration, and simple personalisation, concluding with live demos and presentations.
